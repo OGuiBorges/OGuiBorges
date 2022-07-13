@@ -1,4 +1,4 @@
-### Oii, Muito prazer, eu sou o Gui!🙋🏻‍♂️
+## Oii, Muito prazer, eu sou o Gui!🙋🏻‍♂️
 
 - 📚 Estudando atualmente HTML e CSS
 - 🌱 Objetivos de aprendizagem: Desenv. Web, Mobile, Marketing digital, Design...
@@ -20,5 +20,6 @@
   <img align="center" alt="Gui-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Gui-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Gui-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-
 </div>
+
+##
