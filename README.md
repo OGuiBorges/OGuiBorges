@@ -9,3 +9,7 @@
 - 📖 Lendo: "O poder do Hábito"
 - 📘 Próximo livro: "Mindset: A nova psicologia do sucesso"
 
+<div>
+  <a href="https://github.com/OGuiBorges">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=OGuiBorges&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+</div>
