@@ -11,8 +11,8 @@
 
 <div>
   <a href="https://github.com/OGuiBorges">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=OGuiBorges&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&count_private=false" />
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OGuiBorges&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="180px" width="450px" src="https://github-readme-stats.vercel.app/api?username=OGuiBorges&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&count_private=false" />
+  <img height="180px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OGuiBorges&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
