@@ -38,3 +38,7 @@
   <img align="center" alt="gif-natsu" height="200px" src="https://c.tenor.com/I9EVqujPblsAAAAC/natsu-anime.gif" />
   </div>
   
+  ##
+  
+  ![Snake animation](https://github.com/OGuiBorges/OGuiBorges/blob/output/github-contribution-grid-snake.svg)
+  
