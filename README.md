@@ -32,3 +32,9 @@
     <a href="https://www.linkedin.com/in/guilherme-borges02/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target=""></a>
   </div>
   
+ 
+  <div style="display: inline_block"><br>
+    Quando termino de codar e vejo que deu certo:<br>
+  <img align="center" alt="gif-natsu" height="200px" src="https://c.tenor.com/I9EVqujPblsAAAAC/natsu-anime.gif" />
+  </div>
+  
