@@ -1,7 +1,7 @@
 ## Oii, Muito prazer, eu sou o Gui!🙋🏻‍♂️
 
-- 📚 Estudando atualmente HTML e CSS
-- 🌱 Objetivos de aprendizagem: Desenv. Web, Mobile, Marketing digital, Design...
+- 📚 Estudando atualmente Python e C#
+- 🌱 Objetivos de aprendizagem: Full Stack, Marketing, Design...
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 - 💬 Vamos conversar sobre estudos ou animes?
 - 😄 Pronomes: ele/dele
